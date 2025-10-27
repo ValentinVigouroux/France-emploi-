@@ -3,6 +3,7 @@ Used a Scrapy spider to extract hundreds of job postings from the France Travail
 I only shared the spider component of the code 
 
 This code is no longer fonctionnal : 
+
 • The website has been modified so I would need to adjust the url 
 
 • I was developing the code to make it less request intensive 
